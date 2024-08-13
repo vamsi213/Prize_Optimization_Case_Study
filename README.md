@@ -22,10 +22,8 @@ The project uses a dataset named Competition_Data.csv, which contains informatio
 ## Tools and Technologies
 - **Python**: For data analysis and modeling.
 - **Pandas**: Data manipulation and analysis.
-- **NumPy**: Numerical computations.
-- **SciPy**: Optimization algorithms.
 - **Matplotlib/Seaborn**: Data visualization.
-- **Scikit-learn**: Machine learning models (if applicable).
+- 
 
 ## Results
 **Price Distribution**: Provided insights into how prices are distributed and how they compare with competitors.
@@ -37,8 +35,8 @@ The project uses a dataset named Competition_Data.csv, which contains informatio
 This project highlights the importance of strategic pricing in maximizing sales and profitability. By understanding price elasticity and implementing dynamic pricing strategies, businesses can better align their prices with market demand and customer behavior.
 
 ## Dependencies:
-Python 3.x
-pandas
+Python 3.x,
+pandas,
 matplotlib
 
 ## Future Work
